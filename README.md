@@ -3,7 +3,7 @@ Electrical Engineering Student - UFRGS
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https:mateus-praxedes-06194019b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus-praxedes-06194019b/) 
 
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
