@@ -1,11 +1,11 @@
+# 💫 About Me:
+Electrical Engineering Student - UFRGS
 
-<div align="center">
-  <a href="https://github.com/MateusPraxedes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusPraxedes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPraxedes&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https:mateus-praxedes-06194019b/) 
+
+# 💻 Tech Stack:
 <div style="display: inline_block"><br>
   <img align="center" alt="meteus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,8 +17,15 @@
   <img align="center" alt="mateus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
-##
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MateusPraxedes&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MateusPraxedes&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPraxedes&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div> 
-  <a href="https://www.linkedin.com/in/mateus-praxedes-06194019b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MateusPraxedes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MateusPraxedes&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
