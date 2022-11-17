@@ -18,10 +18,14 @@ Electrical Engineering Student - UFRGS
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MateusPraxedes&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MateusPraxedes&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPraxedes&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <a href="https://github.com/MateusPraxedes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateuspraxedes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuspraxedes&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+
+  ##
 
 [![](https://visitcount.itsvg.in/api?id=MateusPraxedes&icon=0&color=12)](https://visitcount.itsvg.in)
 
