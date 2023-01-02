@@ -22,8 +22,8 @@ Electrical Engineering Student - UFRGS
 
 <div align="center">
   <a href="https://github.com/MateusPraxedes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateuspraxedes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuspraxedes&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusPraxedes&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPraxedes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   ##
