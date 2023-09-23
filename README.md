@@ -1,5 +1,5 @@
 # 💫 About Me:
-Electrical Engineering Student - UFRGS
+Computer Engineering student - UFRGS
 
 
 ## 🌐 Socials:
