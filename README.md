@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering student - UFRGS
+Computer Engineering student - Universidade Federal do Rio Grande do Sul
 
 
 ## 🌐 Socials:
